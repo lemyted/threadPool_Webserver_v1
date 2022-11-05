@@ -1,0 +1,5 @@
+- make server
+- parse requests
+- push requests to collection
+- read request collection with threads
+
