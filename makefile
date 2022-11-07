@@ -1,4 +1,4 @@
-SRC=main.cpp src/Server.cpp src/Request.cpp
+SRC=main.cpp src/Server.cpp src/Request.cpp src/RequestBacklog.cpp
 OPTIONS=-pthread
 
 main:
